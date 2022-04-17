@@ -3,6 +3,7 @@
 hello atguigu.! hello git! 22222222
 hello atguigu.! hello git! 33333333 master
 hello atguigu.! hello git! master
+hello atguigu.! hello git! hot-fix
 hello atguigu.! hello git!
 hello atguigu.! hello git!
 hello atguigu.! hello git!
